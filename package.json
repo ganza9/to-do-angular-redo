@@ -42,5 +42,16 @@
     "lite-server": "2.2.2",
     "typescript": "2.2.2",
     "typings": "1.3.2"
-  }
+  },
+  "main": "gulpfile.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganza9/to-do-angular-redo.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ganza9/to-do-angular-redo/issues"
+  },
+  "homepage": "https://github.com/ganza9/to-do-angular-redo#readme",
+  "description": ""
 }
